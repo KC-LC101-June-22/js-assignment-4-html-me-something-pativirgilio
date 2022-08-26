@@ -1,1 +1,58 @@
-/* Write your CSS here! */
+.page-holder {
+    min-height: 100vh;
+  }
+  
+  .bg-cover {
+    background-size: cover !important;
+  }
+
+  body{
+    background-color: linen;
+    margin: 8px;
+    display: block;
+  }
+
+ 
+  p{
+    padding: 1em;
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 50px;
+    margin-left: 50px;
+    font-family: Papyrus;
+    font-size: large;
+    font-weight: bold;
+  }
+
+  h2{
+    margin-left: 20px;
+  }
+
+  img{
+  padding: 20px;
+  border: 1px solid #4CAF50;
+  margin-left: 50px;
+  }
+
+  #mainHeading{
+    font-family:Courier New, monospace; 
+    font-size:50px;
+    text-align: center;
+    color: red;
+  }
+
+  #mySubTitle{
+    font-family:Courier New, monospace; 
+    font-size:20px;
+    text-align: center;
+  }
+
+ .funParagraph{
+    color: green
+  }
+
+  .pets{
+    font-family:Courier New, monospace;
+  }
+
